@@ -55,6 +55,7 @@ O token **DCSAI** funciona como chave de acesso para integrações, staking e au
 ---
 
 ## 📂 Estrutura do Repositório
+
 DCsAI/ 
 ├── core/ # IA + automações 
 ├── ui/ # Painel de telemetria 
