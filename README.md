@@ -39,7 +39,7 @@ O token **DCSAI** funciona como chave de acesso para integrações, staking e au
 ## 🌐 Links Oficiais
 - **Site (GitHub Pages):** https://diegocampagnollo-cell.github.io/DCSAI-Project/  
 - **GitHub:** https://github.com/diegocampagnollo-cell/DCSAI-Project  
-- **Discord:** (https://discord.gg/5wbfU4KTA9) 
+- **Discord:** https://discord.gg/5wbfU4KTA9 
 - **Twitter/X:** https://x.com/DiegoCampa99502  
 - **Facebook:** https://facebook.com/diegoscampagnollo  
 
