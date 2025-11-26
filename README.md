@@ -1,31 +1,157 @@
+<!-- Banner ou logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/diegocampagnollo-cell/DCSAI-Project/main/logo_wordmark.svg" width="260">
+  <img src="assets/dcsai_shield.svg" width="260">
 </p>
 
-<h1 align="center">👋 Olá, eu sou Diego Campagnollo</h1>
-
-<p align="center">
-  🚀 Criador do projeto <b>DCs.AI</b>  
-  <br>
-  IA leve • Automação • Telemetria • Blockchain
-</p>
+<h1 align="center">DCs.AI — Autonomous Intelligence & Telemetry</h1>
 
 ---
 
-## 📌 Projetos em destaque
-- 🔹 [DCsAI-Project](https://github.com/diegocampagnollo-cell/DCSAI-Project)  
-  Ecossistema de IA autônoma + Token DCSAI (BEP-20)
+## 📌 Informações do Token
+- **Nome:** DCs.AI  
+- **Símbolo:** DCSAI  
+- **Padrão:** BEP‑20  
+- **Contrato:** `0x574862165B0027D73c6Bb1791D61dCd494f85c11`  
+- **Supply total:** [informar valor]  
+- **Status:** sem ICO, sem venda privada, sem distribuição antecipada  
+- **Queima:** nenhuma realizada até o momento  
 
 ---
 
-## 🌐 Redes & Contatos
-- Discord: [Servidor DCs.AI](https://discord.gg/wD7vGDhp)  
-- Twitter/X: [@DiegoCampa99502](https://x.com/DiegoCampa99502)  
-- Facebook: [diegoscampagnollo](https://facebook.com/diegoscampagnollo)  
-- Email: **diego.campagnollo@gmail.com**
+## 🚀 Sobre o Projeto
+**DCs.AI** é um ecossistema de inteligência artificial para:
+- Monitoramento autônomo de servidores  
+- Telemetria inteligente  
+- Identificação de incidentes  
+- Operações automatizadas  
+
+O token **DCSAI** funciona como chave de acesso para integrações, staking e auditoria dentro do ecossistema.
+
+---
+
+## 📄 Documentação
+- [Whitepaper v1.1 (PDF)](docs/whitepaper_v1.1.pdf)  
+- [Whitepaper v1.1 (Markdown)](docs/whitepaper_v1.1.md)  
+- [Roadmap](docs/roadmap.md)  
+
+---
+
+## 🌐 Links Oficiais
+- **Site (GitHub Pages):** https://diegocampagnollo-cell.github.io/DCSAI-Project/  
+- **GitHub:** https://github.com/diegocampagnollo-cell/DCSAI-Project  
+- **Discord:**https://discord.gg/wD7vGDhp  
+- **Twitter/X:**
+https://x.com/DiegoCampa99502  
+- **Facebook:** https://facebook.com/diegoscampagnollo  
+
+---
+
+## 👤 Fundador
+- **Nome:** Diego Soares Campagnollo  
+- **Função:** Fundador / Dev  
+- **Local:** São Miguel Arcanjo – SP, Brasil  
+- **Contato:** diego.campagnollo@gmail.com  
+- **GitHub:** https://github.com/diegocampagnollo-cell  
+
+---
+
+## 📂 Estrutura do Repositório
+Sim, Diego 🙌. Dá para colocar o checklist em Markdown direto dentro daquele README que eu já tinha te feito, assim o repositório não fica vazio e você já começa com algo útil e organizado.  
+
+O legal é que o checklist aparece como caixinhas que você pode marcar no GitHub, então além de apresentar o projeto, o README também serve como guia de progresso.
+
+---
+
+📝 README com Checklist integrado
+
+`markdown
+<!-- Banner ou logo -->
+<p align="center">
+  <img src="assets/dcsai_shield.svg" width="260">
+</p>
+
+<h1 align="center">DCs.AI — Autonomous Intelligence & Telemetry</h1>
+
+---
+
+📌 Informações do Token
+- Nome: DCs.AI  
+- Símbolo: DCSAI  
+- Padrão: BEP‑20  
+- Contrato: 0x574862165B0027D73c6Bb1791D61dCd494f85c11  
+- Supply total: [informar valor]  
+- Status: sem ICO, sem venda privada, sem distribuição antecipada  
+- Queima: nenhuma realizada até o momento  
+
+---
+
+🚀 Sobre o Projeto
+DCs.AI é um ecossistema de inteligência artificial para:
+- Monitoramento autônomo de servidores  
+- Telemetria inteligente  
+- Identificação de incidentes  
+- Operações automatizadas  
+
+O token DCSAI funciona como chave de acesso para integrações, staking e auditoria dentro do ecossistema.
+
+---
+
+📄 Documentação
+- Whitepaper v1.1 (PDF)  
+- Whitepaper v1.1 (Markdown)  
+- Roadmap  
+
+---
+
+🌐 Links Oficiais
+- Site (GitHub Pages): https://diegocampagnollo-cell.github.io/DCSAI-Project/  
+- GitHub: https://github.com/diegocampagnollo-cell/DCSAI-Project  
+- Discord: https://discord.gg/wD7vGDhp  
+- Twitter/X: https://x.com/DiegoCampa99502  
+- Facebook: https://facebook.com/diegoscampagnollo  
+
+---
+
+👤 Fundador
+- Nome: Diego Soares Campagnollo  
+- Função: Fundador / Dev  
+- Local: São Miguel Arcanjo – SP, Brasil  
+- Contato: diego.campagnollo@gmail.com  
+- GitHub: https://github.com/diegocampagnollo-cell  
+
+---
+
+📂 Estrutura do Repositório
+`
+DCsAI/
+├── core/          # IA + automações
+├── ui/           # Painel_de_telemetria
+├── contracts/    # Token DCSAI+eventos
+└── docs/   #Whitepaper,roadmap,branding
+
+---
+
+📋 Checklist de Preparação para BscScan
+- [ ]Criar repositório DCSAI-Project
+- [ ]Adicionar pastas:core/,ui/,
+contracts/,docs/,assets/
+- [ ]Subir README.md inicial com informações do token
+- [ ]Subir Whitepaper v1.1 em PDF e
+Markdown
+- [ ]Criar Roadmap em docs/roadmap.md
+- [ ]Adicionar branding (logo, cores, ícone SVG)
+- [ ]Criar index.html para GitHub Pages
+- [ ]Ativar GitHub Pages no repositório
+- [ ]Verificar contrato no BscScan
+- [ ]Incluir nome do fundador e perfil público
+- [ ]Conferir links sociais ativos
+- [ ]Reenviar formulário de atualização no BscScan
 
 ---
 
 <p align="center">
-  ✨ Obrigado por visitar meu perfil! ✨
+  🚀 Obrigado por apoiar o DCs.AI — Inteligência Autônoma para servidores e jogos!
 </p>
+`
+
+---
