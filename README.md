@@ -116,14 +116,15 @@ O token DCSAI funciona como chave de acesso para integrações, staking e audito
 
 📂 Estrutura do Repositório
 
-DCsAI/
-📂 core/#IA+automações
+📂DCsAI/
 
-📂 ui/#Painel_de_telemetria
+📂core/#IA+automações
 
-📂 contracts/#Token DCSAI+eventos
+📂ui/#Painel_de_telemetria
 
-📂 docs/#Whitepaper,roadmap,branding
+📂contracts/#Token DCSAI+eventos
+
+📂docs/#Whitepaper,roadmap,branding
 
 ---
 
