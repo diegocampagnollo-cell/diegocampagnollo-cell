@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/diegocampagnollo-cell/DCSAI-Project/main/logo_wordmark.svg" width="260">
 </p>
