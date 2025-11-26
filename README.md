@@ -55,13 +55,6 @@ https://x.com/DiegoCampa99502
 
 ---
 
-## 📂 Estrutura do Repositório
-Sim, Diego 🙌. Dá para colocar o checklist em Markdown direto dentro daquele README que eu já tinha te feito, assim o repositório não fica vazio e você já começa com algo útil e organizado.  
-
-O legal é que o checklist aparece como caixinhas que você pode marcar no GitHub, então além de apresentar o projeto, o README também serve como guia de progresso.
-
----
-
 📝 README com Checklist integrado
 
 `markdown
@@ -122,12 +115,11 @@ O token DCSAI funciona como chave de acesso para integrações, staking e audito
 ---
 
 📂 Estrutura do Repositório
-`
 DCsAI/
-├── core/          # IA + automações
+├── core/         # IA + automações
 ├── ui/           # Painel_de_telemetria
 ├── contracts/    # Token DCSAI+eventos
-└── docs/   #Whitepaper,roadmap,branding
+└── docs/         # Whitepaper,roadmap,branding
 
 ---
 
