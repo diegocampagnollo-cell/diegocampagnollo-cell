@@ -1,8 +1,3 @@
-🚀
-<p align="center">
-  <img src="assets/dcsai_shield.svg" width="260">
-</p>
-
 <h1 align="center">DCs.AI — Autonomous Intelligence & Telemetry</h1>
 
 ---
