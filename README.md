@@ -56,30 +56,14 @@ O token **DCSAI** funciona como chave de acesso para integrações, staking e au
 
 📂 DCsAI/ 
 -
-📂 core/ # IA + automações 
+📂 core/ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ# IA + automações 
 -
-📂 ui/ # Painel de telemetria 
+📂 ui/ ﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠﾠ# Painel de telemetria 
 -
-📂 contracts/ # Token DCSAI + eventos 
+📂 contracts/ ﾠﾠﾠﾠ# Token DCSAI + eventos 
 -
-📂 docs/ # Whitepaper, roadmap, branding
----
-
----
-
-## 📋 Checklist de Preparação para BscScan
-- [ ] Criar repositório `DCSAI-Project`
-- [ ] Adicionar pastas: `core/`, `ui/`, `contracts/`, `docs/`, `assets/`
-- [ ] Subir README.md inicial com informações do token
-- [ ] Subir Whitepaper v1.1 em PDF e Markdown
-- [ ] Criar Roadmap em `docs/roadmap.md`
-- [ ] Adicionar branding (logo, cores, ícone SVG)
-- [ ] Criar `index.html` para GitHub Pages
-- [ ] Ativar GitHub Pages no repositório
-- [ ] Verificar contrato no BscScan
-- [ ] Incluir nome do fundador e perfil público
-- [ ] Conferir links sociais ativos
-- [ ] Reenviar formulário de atualização no BscScan
+📂 docs/ﾠﾠﾠﾠﾠﾠﾠﾠﾠ# Whitepaper, roadmap, branding
+-
 
 ---
 
