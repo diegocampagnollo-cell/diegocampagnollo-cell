@@ -1,7 +1,7 @@
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3c2b26e6-8614-48c9-ae90-2cf6dba3ae39" />
 
 ## 🚀 Meu Projeto em Destaque
-👉 [DCs.AI — Inteligência Artificial + Blockchain](https://github.com/diegocampagnollo-cell/DCSAI-Project)
+👉 [DCs.AI — Inteligência Artificial + Blockchain](https://diegocampagnollo-cell.github.io/DCSAI-Project/roadmap.html)
 
 
 <h1 align="center">DCs.AI — Autonomous Intelligence & Telemetry</h1>
