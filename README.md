@@ -1,3 +1,12 @@
+# DCs.AI Project
+
+Bem-vindo ao DCs.AI — onde dados ganham autonomia.  
+Welcome to DCs.AI — where data becomes autonomous.
+
+🚀 IA + Blockchain BEP‑20  
+🔧 Automação inteligente e monitoramento autônomo  
+🌐 Projeto independente criado por Diego Soares Campagnollo
+
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3c2b26e6-8614-48c9-ae90-2cf6dba3ae39" />
 
 ## 🚀 Meu Projeto em Destaque
