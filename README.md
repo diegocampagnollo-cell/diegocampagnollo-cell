@@ -60,7 +60,7 @@ O token **DCSAI** funciona como chave de acesso para integrações, staking e au
 - **Nome:** Diego Soares Campagnollo  
 - **Função:** Fundador / Dev  
 - **Local:** São Miguel Arcanjo – SP, Brasil  
-- **Contato:** diego.campagnollo@gmail.com  
+- **Contato:** dcs.ai.project@gmail.com
 - **GitHub:** https://github.com/diegocampagnollo-cell  
 
 ---
