@@ -62,6 +62,7 @@ O token **DCSAI** funciona como chave de acesso para integrações, staking e au
 - **Local:** São Miguel Arcanjo – SP, Brasil  
 - **Contato:** dcs.ai.project@gmail.com
 - **GitHub:** https://github.com/diegocampagnollo-cell  
+- **LinkedIn:** https://www.linkedin.com/in/dcs-ai-project-a1b116398/
 
 ---
 
