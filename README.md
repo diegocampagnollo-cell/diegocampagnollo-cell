@@ -7,7 +7,7 @@ Welcome to DCs.AI — where data becomes autonomous.
 🔧 Automação inteligente e monitoramento autônomo  
 🌐 Projeto independente criado por Diego Soares Campagnollo
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/https://cdn.discordapp.com/attachments/1325696067559358494/1439386260589379768/Estilo_emblema_circular_com_nucleo_de_energia__DCs.AI_ao_lado._Bom_para_avatar_e_favicon.jpeg?ex=692ec3ab&is=692d722b&hm=639a0f24460642a5e6f4509612448c73e2c534ecadaf724b8dc5ee84c44a69ca&" />
+<img width="1024" height="1024" alt="image" src="." />
 
 ## 🚀 Meu Projeto em Destaque
 👉 [DCs.AI — Inteligência Artificial + Blockchain](https://diegocampagnollo-cell.github.io/DCSAI-Project/roadmap.html)
