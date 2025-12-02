@@ -1,4 +1,4 @@
-# DCs.AI Project
+<h1 align="center"># DCs.AI Project
 
 Bem-vindo ao DCs.AI — onde dados ganham autonomia.  
 Welcome to DCs.AI — where data becomes autonomous.
@@ -7,7 +7,8 @@ Welcome to DCs.AI — where data becomes autonomous.
 🔧 Automação inteligente e monitoramento autônomo  
 🌐 Projeto independente criado por Diego Soares Campagnollo
 
-<img width="1024" height="1024" alt="image" src="." />
+<h1 align="center"><img width="380" height="382" alt="image" src="https://github.com/user-attachments/assets/5ab9ed97-2b5d-4a3f-a208-e7a09a78a5de" />
+
 
 ## 🚀 Meu Projeto em Destaque
 👉 [DCs.AI — Inteligência Artificial + Blockchain](https://diegocampagnollo-cell.github.io/DCSAI-Project/roadmap.html)
@@ -66,7 +67,7 @@ O token **DCSAI** funciona como chave de acesso para integrações, staking e au
 
 ---
 
-## 📂 Estrutura do Repositório
+<h1 align="center">## 📂 Estrutura do Repositório
 
 📂 DCsAI/ 
 -
@@ -82,5 +83,5 @@ O token **DCSAI** funciona como chave de acesso para integrações, staking e au
 ---
 
 <p align="center">
-  🚀 Obrigado por apoiar o DCs.AI — Inteligência Autônoma para servidores e jogos!
+ <h1 align="center">🚀 Obrigado por apoiar o DCs.AI — Inteligência Autônoma para servidores e jogos!
 </p>
