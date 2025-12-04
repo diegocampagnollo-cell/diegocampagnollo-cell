@@ -1,11 +1,11 @@
 # DCs.AI Project
 Bem-vindo ao DCs.AI — onde dados ganham autonomia.  
 Welcome to DCs.AI — where data becomes autonomous.
+---
 
 🚀 Inteligência Autônoma + Telemetria  
 🔧 Automação inteligente e monitoramento de servidores  
 🌐 Projeto independente criado por Diego Soares Campagnollo
-
 ---
 
 ## 🚀 Sobre o Projeto
@@ -16,7 +16,12 @@ DCs.AI é um ecossistema de inteligência artificial para:
 - Operações automatizadas
 
 O sistema já conta com **scripts de inicialização (.bat)** e um **sentinela ativo em background**, além de testes documentados.
+---
 
+⚠️ Status: Protótipo em desenvolvimento  
+O DCs.AI atualmente é um **protótipo de aplicativo** de inteligência autônoma e telemetria.  
+Já conta com scripts de inicialização (.bat), sentinela ativo em background e testes documentados.  
+O objetivo é evoluir para um **app completo**, capaz de prever erros e automatizar correções em tempo real.
 ---
 
 ## 📄 Documentação (manutenção 🔧)
@@ -51,4 +56,4 @@ Contato: dcs.ai.project@gmail.com
 ---
 
 🚀 Obrigado por apoiar o DCs.AI — Inteligência Autônoma para servidores e jogos!
- 
+--- 
