@@ -41,9 +41,9 @@ O token **DCSAI** funciona como chave de acesso para integrações, staking e au
 ---
 
 ## 📄 Documentação
-- [Whitepaper v1.1 (PDF)](docs/whitepaper_v1.1.pdf) (Manutenção)🔧 
+- [Whitepaper v1.1 (PDF)](https://github.com/diegocampagnollo-cell/DCSAI-Project/tree/main-branch/docs/whitepaper) (Manutenção)🔧 
 - [Whitepaper v1.1 (Markdown)](docs/whitepaper_v1.1.md) (Manutenção)🔧 
-- [Roadmap](docs/roadmap.md) (Manutenção)🔧 
+- [Roadmap](https://github.com/diegocampagnollo-cell/DCSAI-Project/blob/main-branch/ROADMAP.md) (Manutenção)🔧 
 
 ---
 
