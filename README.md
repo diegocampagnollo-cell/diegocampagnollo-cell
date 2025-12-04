@@ -53,6 +53,8 @@ Função: Fundador / Dev
 Local: São Miguel Arcanjo – SP, Brasil  
 Contato: dcs.ai.project@gmail.com  
 
+💡 Fundador do DCs.AI — protótipo de inteligência autônoma para monitoramento e telemetria.  
+🚀 Dev independente, aprendendo na prática e transformando ideias em código.
 ---
 
 🚀 Obrigado por apoiar o DCs.AI — Inteligência Autônoma para servidores e jogos!
