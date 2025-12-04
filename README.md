@@ -53,7 +53,7 @@ O token **DCSAI** funciona como chave de acesso para integrações, staking e au
 - **Discord:** https://discord.gg/5wbfU4KTA9 
 - **Twitter/X:** https://x.com/DiegoCampa99502  
 - **Facebook:** https://facebook.com/diegoscampagnollo  
-- **LinkedIn:** https://www.linkedin.com/in/dcs-ai-project-a1b116398/
+- **LinkedIn:** https://www.linkedin.com/in/diegocampagnollo/
 
 ---
 
