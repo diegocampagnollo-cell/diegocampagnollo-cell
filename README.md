@@ -1,3 +1,14 @@
+# 👋 Olá, eu sou o Diego!
+
+<b>Projetos em andamento:</b>
+- DCs.AI Project 🔧
+- Protótipos em React/Vite
+- Experimentos com WebSocket
+
+![GitHub followers](https://img.shields.io/github/followers/diegocampagnollo-cell?style=social)
+![GitHub stars](https://img.shields.io/github/stars/diegocampagnollo-cell?style=social)
+
+
 <h1>DCs.AI Project 🧠💻</h1>
 <li><b>Protótipo em andamento 🔧 — sistema de monitoramento em tempo real de métricas (CPU, RAM e outros recursos), com backend em Python (WebSocket) e frontend em React/Vite.</li></b>
 
