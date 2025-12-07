@@ -1,61 +1,93 @@
-# DCs.AI Project
-Bem-vindo ao DCs.AI — onde dados ganham autonomia.  
-Welcome to DCs.AI — where data becomes autonomous.
----
+<h1>DCs.AI Project 🧠💻</h1>
+<li><b>Protótipo em andamento 🔧 — sistema de monitoramento em tempo real de métricas (CPU, RAM e outros recursos), com backend em Python (WebSocket) e frontend em React/Vite.</li></b>
 
-🚀 Inteligência Autônoma + Telemetria  
-🔧 Automação inteligente e monitoramento de servidores  
-🌐 Projeto independente criado por Diego Soares Campagnollo
----
+<h1>🚀 Visão Geral</h1>
+<li><b>O DCs.AI Project é um painel interativo que coleta métricas do sistema e exibe em tempo real via WebSocket. Objetivo: evoluir de protótipo para um aplicativo completo de monitoramento inteligente.</li></b>
 
-## 🚀 Sobre o Projeto
-DCs.AI é um ecossistema de inteligência artificial para:
-- Monitoramento autônomo de servidores
-- Telemetria inteligente
-- Identificação de incidentes
-- Operações automatizadas
+<h1>📂 Estrutura do Projeto</h1>
+<b>
+DCSAI-Project/
 
-O sistema já conta com **scripts de inicialização (.bat)** e um **sentinela ativo em background**, além de testes documentados.
----
+ ├── core/          # Backend Python (WebSocket, coleta de métricas)
+ 
+ ├── ui/            # Frontend React/Vite (painel visual)
+ 
+ ├── docs/          # Prints, inspirações, documentação técnica
+ 
+ ├── assets/        # Imagens e logos
+ 
+ ├── configs/       # Configurações futuras
+ 
+ ├── archive/       # Pastas/arquivos em pausa (tests, contracts, examples, tools, TOKEN_INFO.md)
+ 
+ ├── README.md
+ 
+ ├── README_EN.md
+ 
+ ├── LICENSE.md
+ 
+ ├── ROADMAP.md
+ 
+ ├── PROJECT_OVERVIEW.md
+ 
+ ├── PROJECT_OVERVIEW_EN.md
+ 
+ ├── SECURITY.md
+ 
+ ├── .gitignore
+ 
+ └── requirements.txt</b>
+ 
+<h1>⚙️ Como rodar :</h1> 
 
-⚠️ Status: Protótipo em desenvolvimento  
-O DCs.AI atualmente é um **protótipo de aplicativo** de inteligência autônoma e telemetria.  
-Já conta com scripts de inicialização (.bat), sentinela ativo em background e testes documentados.  
-O objetivo é evoluir para um **app completo**, capaz de prever erros e automatizar correções em tempo real.
----
+<b>Backend (Python)</b>
 
-## 📄 Documentação (manutenção 🔧)
-- [Whitepaper v1.1](docs/WHITEPAPER.md)  
-- [Roadmap](docs/ROADMAP.md)  
-- [Testes](tests/)  
+<b>cd core</b>
 
----
+<b>pip install -r requirements.txt</b>
 
-## 📂 Estrutura do Repositório (manutenção 🔧)
-📂 core/ → IA + automações  
-📂 ui/ → Painel de telemetria  
-📂 tests/ → Scripts e resultados de testes  
-📂 docs/ → Whitepaper, roadmap, segurança  
+<b>python DCSMonitor.py</b>
 
----
+<b>Frontend (React/Vite)</b>
 
-## 🌐 Links Oficiais
-- [Site (GitHub Pages)](https://diegocampagnollo-cell.github.io/DCSAI-Project/)  
-- [GitHub](https://github.com/diegocampagnollo-cell/DCSAI-Project)  
-- [Discord](https://discord.gg/5wbfU4KTA9)  
-- [LinkedIn](https://www.linkedin.com/in/diegocampagnollo/)  
+<b>cd ui</b>
 
----
+<b>npm install</b>
 
-## 👤 Fundador
-**Diego Soares Campagnollo**  
-Função: Fundador / Dev  
-Local: São Miguel Arcanjo – SP, Brasil  
-Contato: dcs.ai.project@gmail.com  
+<b>npm run dev</b>
 
-💡 Fundador do DCs.AI — protótipo de inteligência autônoma para monitoramento e telemetria.  
-🚀 Dev independente, aprendendo na prática e transformando ideias em código.
----
+<b>Painel acessível em: 
 
-🚀 Obrigado por apoiar o DCs.AI — Inteligência Autônoma para servidores e jogos!
---- 
+👉 http://localhost:5173/ (frontend) 
+
+👉 ws://localhost:8765/ (WebSocket server)</b>
+
+<h1>📊 Funcionalidades atuais</h1>
+
+<b><li>Coleta de métricas (CPU, RAM)</li>
+
+<li>Gráfico em tempo real</li>
+
+<li>Comunicação via WebSocket</li>
+
+<li>Protótipo visual inspirado em apps modernos</li>
+
+<h1>🛠️ Roadmap</h1>
+
+<li>🔔 Alertas visuais de pico</li>
+
+<li>📦 Exportação de dados (CSV/JSON)</li>
+
+<li>📊 Múltiplos gráficos (CPU, RAM, Disco, Rede)</li>
+
+<li>🌐 Integração com psutil para dados reais</li>
+
+<li>🧠 Inteligência: histórico, médias, projeções</li>
+
+<li>📱 Evolução para aplicativo completo</li>
+
+<li>📸 Exemplos</li></b>
+
+<h1>📜 Licença</h1>
+
+<b><li>MIT License — veja LICENSE.md</li></b>
