@@ -11,8 +11,8 @@
 - GitHub 💻
 
 
-![GitHub followers](https://img.shields.io/github/followers/diegocampagnollo-cell?style=social)
-![GitHub stars](https://img.shields.io/github/stars/diegocampagnollo-cell?style=social)
+![GitHub followers](https://img.shields.io/github/followers/diegocampagnollo?style=social)
+![GitHub stars](https://img.shields.io/github/stars/diegocampagnollo?style=social)
 
 
 <h1>DCs.AI Project 🧠💻</h1>
