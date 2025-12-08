@@ -104,9 +104,7 @@ DCSAI-Project/
 <li>📱 Evolução para aplicativo completo</li>
 
 <li>📸 Exemplos</li></b>
-
-![DCs AI Painel](https://github.com/user-attachments/assets/34b4f670-dd91-4a48-aba2-cca64e56fd61)
-
+👉 (https://github.com/diegocampagnollo/DCs.AI)
 
 <h1>📜 Licença</h1>
 
