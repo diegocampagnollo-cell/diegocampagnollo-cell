@@ -55,7 +55,7 @@ DCSAI-Project/
  
  └── requirements.txt</b>
  
-<h1>⚙️ Como rodar :</h1> 
+<s><h1>⚙️ Como rodar :</h1> 
 
 <b>Backend (Python)</b>
 
@@ -77,7 +77,7 @@ DCSAI-Project/
 
 👉 http://localhost:5173/ (frontend) 
 
-👉 ws://localhost:8765/ (WebSocket server)</b>
+👉 ws://localhost:8765/ (WebSocket server)</b> </s>
 
 <h1>📊 Funcionalidades atuais</h1>
 
